@@ -4,7 +4,7 @@
 
 ## 分支职责
 
-- `main)：只跟踪 `pbakaus/impeccable` 上游，不直接放个人定制。
+- `main`：只跟踪 `pbakaus/impeccable` 上游，不直接放个人定制。
 - `codex-custom`：个人文档、Codex 工作流和非上游定制。
 - `feature/*`：一次具体的实验或功能改动，完成后合并到 `codex-custom`。
 
