@@ -513,3 +513,14 @@ Apache 2.0. See [LICENSE](LICENSE).
 ---
 
 Created by [Paul Bakaus](https://www.paulbakaus.com)
+
+
+## This fork: Codex customization
+
+This fork keeps `main` aligned with [pbakaus/impeccable](https://github.com/pbakaus/impeccable). Personal Codex documentation and workflow notes live on the `codex-custom` branch.
+
+- [Chinese fork maintenance workflow](docs/zh-CN/FORK_WORKFLOW.md)
+- [Chinese Codex usage guide](docs/zh-CN/CODEX_USAGE.md)
+- [Example project boundary](examples/README.md)
+
+Keep React Bits demo projects separate; use this repository for the skill and its source-first maintenance.
